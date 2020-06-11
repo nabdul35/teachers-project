@@ -36,7 +36,7 @@ body {
 #menu {
 	position: fixed;
 	left: 10px;
-	top: 40%;
+	top: 25%;
 	color: white;
 	letter-spacing: .01em;
 	z-index:10;
