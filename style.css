@@ -35,7 +35,7 @@ body {
 
 #menu {
 	position: fixed;
-	left: 10px;
+	right: 70px;
 	top: 25%;
 	color: white;
 	letter-spacing: .01em;
@@ -54,9 +54,11 @@ body {
 #logo {
 	z-index: 20;
 	position: fixed;
-	right: 70px;
+	right: 55px;
 	top: 60px;
 	width: 380px;
+	padding: 13px;
+	padding-right: 15px;
 }
     #logo-touch {
         display: none;
