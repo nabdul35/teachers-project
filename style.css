@@ -56,11 +56,11 @@ body {
 	position: fixed;
 	right: 55px;
 	top: 30px;
-	width: 230px;
-	padding: 13px;
+	width: 130px;
+	padding: 7px;
 	padding-right: 15px;
 	border-style: solid;
-	border-color: #FF00D7;
+	border-color: #000000;
 }
     #logo-touch {
         display: none;
