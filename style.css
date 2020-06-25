@@ -54,7 +54,7 @@ body {
 #logo {
 	z-index: 20;
 	position: fixed;
-	lright: 55px;
+	right: 55px;
 	top: 65px;
 	width: 380px;
 	padding: 13px;
