@@ -63,9 +63,6 @@ body {
 	font: regular 35px/40px Krona One;
     letter-spacing: 3px;
 	cursor: move;
-	border-style: solid;
-	border-color: #000000;
-	background-color: #ffffff;
 }
     #logo-touch {
         display: none;
