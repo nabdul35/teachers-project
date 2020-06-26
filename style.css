@@ -57,8 +57,11 @@ body {
 	right: 40px;
 	top: 20px;
 	width: 400px;
-	padding: 10px;
-	padding-right: 10px;
+	padding: 0px;
+	padding-right: 0px;
+	box-shadow: #00FF31 3px 3px 0, 6px 6px 0px #5100FF;
+	border-style: solid;
+	border-color: #FF00D7;
 }
 
     #logo-touch {
@@ -69,6 +72,7 @@ body {
 		margin-left: -80px;
 		width:160px;
 		margin: left:10%;
+	    
     }
 
 #binder-clip{
