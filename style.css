@@ -111,16 +111,16 @@ body {
 
 .about{
 	position: fixed;
-	font-family: courier;
+	font-family: Krona One;
     letter-spacing: 0.5px;
-    font-size: 14px;
+    font-size: 12px;
     line-height: 19px;
     z-index: 100;
-    color: rgba(0, 0.8);
+    color: #000000;
 	z-index: 90;
 	max-width: 277px;
-	right: 145px;
-	top: 155px;
+	right: 55px;
+	top: 250px;
 }
 
 /* Psuedo mobile styles for wide touch devices */
