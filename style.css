@@ -52,18 +52,15 @@ body {
 }
 
 #logo {
-	letter-spacing: .01em;
+	z-index: 20;
 	position: fixed;
 	right: 55px;
-	top: 30px;
+	top: 20px;
 	width: 230px;
-	z-index:20;
-	padding: 13px;
-	padding-right: 15px;
-	font: regular 35px/40px Krona One;
-    letter-spacing: 3px;
-	cursor: move;
+	padding: 10px;
+	padding-right: 10px;
 }
+
     #logo-touch {
         display: none;
 		position: absolute;
