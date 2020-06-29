@@ -118,13 +118,13 @@ body {
 	font-family: Krona One;
     letter-spacing: 0.5px;
     font-size: 12px;
-    line-height: 19px;
+    line-height: 16px;
     z-index: 100;
     color: #000000;
 	z-index: 90;
 	max-width: 277px;
 	right: 40px;
-	top: 120px;
+	top: 130px;
 	padding: 10px;
 	padding-right: 10px;
 	text-align: right;
