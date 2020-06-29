@@ -116,8 +116,8 @@ body {
 .about{
 	position: fixed;
 	font-family: Krona One;
-    letter-spacing: 0.5px;
-    font-size: 12px;
+    letter-spacing: 0.4px;
+    font-size: 11px;
     line-height: 16px;
     z-index: 100;
     color: #0000ff;
