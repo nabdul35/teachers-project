@@ -45,9 +45,7 @@ body {
 	font: regular 15px/20px Krona One;
     letter-spacing: -0.3px;
 	cursor: move;
-	    box-shadow: #00FF31 3px 3px 0, 6px 6px 0px #5100FF;
-	border-style: solid;
-	border-color: #FF00D7;
+	    box-shadow: 10px 10px 15px #ecfc03;
 	background-color: #ffffff;
 }
 
