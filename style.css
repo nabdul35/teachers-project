@@ -111,7 +111,7 @@ body {
 	color: red;
 }
 
-#about{
+.about{
 	position: fixed;
 	font-family: Krona One;
     letter-spacing: 0.4px;
