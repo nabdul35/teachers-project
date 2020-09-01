@@ -172,8 +172,8 @@ body {
 /* Real mobile styles for smaller screens */
 @media only screen and (max-width: 80px) {
 	body, html{
-	position: relative;
-		width: 10%;
+	position: fixed;
+		width: 100%;
 	}
 	#background-site{
 		-webkit-overflow-scrolling:touch; 
