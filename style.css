@@ -207,6 +207,7 @@ body {
 		margin-top: 20px;
 	}
 	#menu-open{
+		display: block;
 		width: 30px;
 		height: 35px;
 		cursor: pointer;
